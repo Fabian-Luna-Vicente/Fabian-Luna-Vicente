@@ -150,12 +150,10 @@ Me dedico a convertir ideas en proyectos digitales funcionales, escalables y pro
 ## 🎧 Playlist de Enfoque (Focus Mode)
 
 <p align="center">
-  <!-- Redirecciona a la app de Spotify o abre la web. Aquí puedes poner tu ID real de Spotify si la tarjeta no te carga, o dejar esta que se actualiza dinámicamente -->
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spotify&cover_image=true&theme=novathem&show_offline=true&background_color=0f172a&interchange=true&bar_color=a100ff&bar_color_cover=false" alt="Spotify currently playing" />
+  <a href="https://open.spotify.com/playlist/7iieOY0ZSPRj2yWa9Gorf7?si=2UBVS_f2Q52ryeYDLnUu_w&pi=CRMCRkDTSR2j6" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=1DB954&height=120&text=🎵%20Focus%20Playlist&fontColor=ffffff&fontSize=35&desc=Haz%20clic%20para%20escuchar%20mi%20música%20para%20programar%20en%20Spotify&descSize=15&descAlignY=75" alt="Spotify Playlist"/>
   </a>
 </p>
-
 ---
 
 ## 📫 Redes y Contacto
