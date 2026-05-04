@@ -138,7 +138,7 @@ Me dedico a convertir ideas en proyectos digitales funcionales, escalables y pro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fabianlv27&show_icons=true&theme=tokyonight&border_color=a100ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabianlv27&theme=tokyonight&border=a100ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabian-Luna-Vicente&theme=tokyonight&border=a100ff" width="48%" />
 </p>
 
 <p align="center">
@@ -150,8 +150,8 @@ Me dedico a convertir ideas en proyectos digitales funcionales, escalables y pro
 ## 🎧 Playlist de Enfoque (Focus Mode)
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/7iieOY0ZSPRj2yWa9Gorf7?si=2UBVS_f2Q52ryeYDLnUu_w&pi=CRMCRkDTSR2j6" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=1DB954&height=120&text=🎵%20Focus%20Playlist&fontColor=ffffff&fontSize=35&desc=Haz%20clic%20para%20escuchar%20mi%20música%20para%20programar%20en%20Spotify&descSize=15&descAlignY=75" alt="Spotify Playlist"/>
+  <a href="https://open.spotify.com/playlist/7iieOY0ZSPRj2yWa9Gorf7?si=pHjVuXGMQl-6UoU4_6blmw" target="_blank">
+    <img src="https://img.shields.io/badge/🎵Focus_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </p>
 ---
