@@ -15,8 +15,8 @@
 
 <div>
   <img align="right" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYngwaXM2OXN6d2oxdmd3bHc5NjN3MmRhZngxbGQzMWY0anhyZ3EzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" />
-  <p>Me dedico a convertir ideas en proyectos digitales funcionales, escalables y profesionales. Me gusta saber cómo funciona la tecnología desde siempre.</p>
-  <p>Considero que el entorno ideal para un desarrollador es aquel en constante evolución, donde se pueda aprender y enfrentar nuevos retos diariamente, especialmente en áreas como la Inteligencia Artificial y las arquitecturas robustas.</p>
+  <p>Me dedico a convertir ideas en proyectos digitales funcionales, escalables y profesionales.</p>
+    <p>Me gusta saber cómo funciona la tecnología desde siempre</p>.
 </div>
 <br clear="both"/>
 
