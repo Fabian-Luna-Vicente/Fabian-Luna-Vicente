@@ -13,9 +13,10 @@
 
 ## 👨‍💻 Sobre Mí
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggCGvnk5Gdz9ni/giphy.gif" alt="Coding GIF" />
+<img align="right" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYngwaXM2OXN6d2oxdmd3bHc5NjN3MmRhZngxbGQzMWY0anhyZ3EzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" />
 
-Me dedico a convertir ideas en proyectos digitales funcionales, escalables y profesionales. Estoy fuertemente motivado a desarrollar soluciones útiles y eficientes, así como a seguir creciendo profesionalmente en el sector tecnológico. 
+Me dedico a convertir ideas en proyectos digitales funcionales, escalables y profesionales.
+Me gusta saber como funciona la tecnología desde siempre.
 <br>
 
 ---
