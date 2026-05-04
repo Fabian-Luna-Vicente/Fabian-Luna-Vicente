@@ -32,7 +32,7 @@
     <td width="80%">
       <strong>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</strong><br>
       <em>Instituto Privado Metrodora FP</em><br>
-      Aprendiendo a crear proyectos sostenibles, documentados y escalables orientados a resolver problemas reales, trabajando en equipo y entendiendo que el código limpio no lo es todo.
+      Aprendiendo a crear proyectos sostenibles, documentados y escalables orientados a resolver problemas reales, trabajando en equipo y entendiendo que el código limpio no lo es todo. Actualmente en Prácticas.
     </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@
     <td width="80%">
       <strong>Desarrollador Autodidacta</strong><br>
       <em>Aprendizaje Continuo e Independiente</em><br>
-      Investigación y desarrollo constante de proyectos personales. Especialización en integración de IA (LLMs), arquitecturas backend robustas, microservicios, bases de datos avanzadas y nuevas herramientas del ecosistema de programación mediante documentación y práctica activa.
+      Investigación y desarrollo constante de proyectos personales. Especialización en integración de IA (LLMs), arquitecturas backend robustas, microservicios, bases de datos y nuevas herramientas del ecosistema de programación mediante documentación y práctica activa.
     </td>
   </tr>
   <tr>
