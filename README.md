@@ -201,7 +201,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2138/2138240.png" width="80px" alt="Parking"/>
       </a>
       <h3>🚗 Gestión de Aparcamiento</h3>
-      <p>Software grupal universitario aplicando herencia, polimorfismo para administrar el flujo de un parking.</p>
+      <p>Software grupal de grado aplicando herencia, polimorfismo para administrar el flujo de un parking.</p>
       <em>Java | Apache Ant</em>
     </td>
   </tr>
