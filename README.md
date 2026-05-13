@@ -220,17 +220,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianlv27&layout=compact&theme=tokyonight&border_color=a100ff" width="60%" />
 </p>
 
----
-
-## 🎧 Playlist de Enfoque (Focus Mode)
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/7iieOY0ZSPRj2yWa9Gorf7?si=pHjVuXGMQl-6UoU4_6blmw" target="_blank">
-    <img src="https://img.shields.io/badge/🎵Focus_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-  </a>
-</p>
----
-
 ## 📫 Redes y Contacto
 
 <p align="center">
@@ -258,7 +247,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=1000&color=A100FF&center=true&vCenter=true&width=800&lines=%22Cualquier+tonto+puede+escribir+c%C3%B3digo+que+un+ordenador+entienda.%22;%22Los+buenos+programadores+escriben+c%C3%B3digo+que+los+humanos+entienden.%22+-+Martin+Fowler" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=1000&color=A100FF&center=true&vCenter=true&width=800&lines=%22Cualquiera+puede+escribir+c%C3%B3digo+que+un+ordenador+entienda.%22;%22Los+buenos+programadores+escriben+c%C3%B3digo+que+los+humanos+entienden.%22+-+Martin+Fowler" alt="Quote" />
 </p>
 
 <div align="center">
