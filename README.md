@@ -226,24 +226,25 @@
   <a href="https://linkedin.com/in/fabian-luna-vicente-89ab66358">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:fabianalessandroluna@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://fabianworks.vercel.app">
     <img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <!-- Cambia "TU_USUARIO" / "TU_ID" por tus enlaces reales -->
-  <a href="https://discord.com/users/TU_ID_DISCORD">
+  <a href="https://discord.com/users/fabilier">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://stackoverflow.com/users/TU_ID_STACKOVERFLOW">
+  <a href="https://stackoverflow.com/users/29277600/fabian-lv">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+</p>
+<p align="center">
+    </a>
+    <a href="mailto:fabianalessandroluna@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a>
+     fabianalessandroluna@gmail.com
   </a>
 </p>
-
 <br>
 
 <p align="center">
