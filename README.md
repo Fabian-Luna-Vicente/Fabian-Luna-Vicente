@@ -22,7 +22,7 @@
 
 ---
 
-## 🎓 Línea de Tiempo: Educación
+##  Línea de Tiempo: Educación
 
 <table>
   <tr>
@@ -113,9 +113,9 @@
       <a href="https://github.com/Fabianlv27/AC-602">
         <img src="https://i.postimg.cc/YS22K4mw/Home.png" width="180px" alt="Drillex Preview"/>
       </a>
-      <h3>🧠 Drillex (Idiomas IA)</h3>
+      <h3>🧠Mylex (Idiomas IA)</h3>
       <p>Inmersión lingüística con IA semántica (Groq/Llama 3), diccionarios en contexto y sistema de caché híbrido.</p>
-      <em>FastAPI | React | Redis | MySQL</em>
+      <em>FastAPI | React | Redis | PostgreSql</em>
     </td>
   </tr>
   <!-- Fila 2 -->
@@ -127,14 +127,6 @@
       <h3>➕ MathPlus</h3>
       <p>Resolución y explicación interactiva de problemas matemáticos mediante nodos LangGraph, TTS y Pizarra.</p>
       <em>Python | LangChain | MariaDB | React</em>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabianlv27/AC-602">
-        <img src="https://i.postimg.cc/rFQF2Kb6/Screenshot_2026_01_17_192110.png" width="180px" alt="Organizador Preview"/>
-      </a>
-      <h3>🎥 Algoritmo Org. de Videos</h3>
-      <p>Recopilación y filtrado de YouTube inmersivo por WPM, nivel y acentos usando Scraping y LLMs.</p>
-      <em>Python | FastAPI | Selenium | PostgreSQL</em>
     </td>
   </tr>
   <!-- Fila 3 -->
