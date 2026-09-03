@@ -102,101 +102,16 @@
   <!-- Fila 1 -->
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Fabianlv27">
-        <img src="https://i.postimg.cc/4N7Nk4jm/1776610353642.png" width="180px" alt="MyGrow Preview"/>
-      </a>
-      <h3>🌱 MyGrow</h3>
-      <p>Aplicación fitness donde tu progreso muta una planta virtual algorítmicamente. Gestión de rutinas y RLS.</p>
-      <em>React | Supabase | PostgreSQL</em>
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/Fabianlv27/AC-602">
         <img src="https://i.postimg.cc/YS22K4mw/Home.png" width="180px" alt="Drillex Preview"/>
       </a>
       <h3>🧠Mylex (Idiomas IA)</h3>
-      <p>Inmersión lingüística con IA semántica (Groq/Llama 3), diccionarios en contexto y sistema de caché híbrido.</p>
+      <p>Inmersión lingüística con IA semántica (Gemini), diccionarios en contexto y sistema de caché híbrido.</p>
       <em>FastAPI | React | Redis | PostgreSql</em>
     </td>
   </tr>
-  <!-- Fila 2 -->
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabian-Luna-Vicente/MathPlus">
-        <img src="https://i.postimg.cc/Nf1z0wBQ/Logo-Math-Plus.png" width="100px" alt="MathPlus Logo"/>
-      </a>
-      <h3>➕ MathPlus</h3>
-      <p>Resolución y explicación interactiva de problemas matemáticos mediante nodos LangGraph, TTS y Pizarra.</p>
-      <em>Python | LangChain | MariaDB | React</em>
-    </td>
-  </tr>
-  <!-- Fila 3 -->
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabianlv27/DAM-python/tree/main/Agenda">
-        <img src="https://i.postimg.cc/MptRNszD/Screenshot_2026_01_19_180218.png" width="180px" alt="Agenda Preview"/>
-      </a>
-      <h3>📅 Manejador de Agenda</h3>
-      <p>Sistema simple en terminal para gestión de usuarios y generación de estadísticas de clientes.</p>
-      <em>Python | CSV</em>
-    </td>
-    <td align="center" width="50%">
-      <a href="#">
-        <img src="https://i.postimg.cc/PJKV01cS/1769984983724.png" width="180px" alt="PDF Preview"/>
-      </a>
-      <h3>📄 Buscador de Palabras en PDF</h3>
-      <p>Script con interfaz interactiva que abre e identifica automáticamente palabras clave dentro de PDFs locales.</p>
-      <em>Python | Tkinter | Regex</em>
-    </td>
-  </tr>
-  <!-- Fila 4 -->
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabianlv27/SpringbootProyects/tree/main/Scott_SP">
-        <img src="https://i.postimg.cc/zGsJg3KP/image_2026_02_01_171842121.png" width="180px" alt="Dashboard Empleados"/>
-      </a>
-      <h3>🏢 Dashboard de Empleados</h3>
-      <p>Panel web para organizar personal y departamentos con gráficos estadísticos y Spring Security.</p>
-      <em>Java | SpringBoot | MySQL | JPA</em>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabianlv27/ProyectoBancosJavaSQL">
-        <img src="https://i.postimg.cc/7YZqXXQ2/Screenshot-2026-01-19-204431.png" width="180px" alt="Banco Simulador"/>
-      </a>
-      <h3>🏦 Simulador de Bancos</h3>
-      <p>Gestión bancaria con sistema de cuentas y transacciones aplicando POO profunda y operaciones CRUD.</p>
-      <em>Java | MySQL</em>
-    </td>
-  </tr>
-  <!-- Fila 5 -->
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabianlv27/LLamaTA">
-        <img src="https://i.postimg.cc/ZR07BtDB/Gemini_Generated_Image_i1qdu1i1qdu1i1qd_(1).png" width="180px" alt="Github Manager"/>
-      </a>
-      <h3>🐙 Manejador de Repositorios</h3>
-      <p>Programa de escritorio UI para gestionar operaciones CRUD directamente con la API de GitHub.</p>
-      <em>Python | Tkinter | JSON</em>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Fabian-Luna-Vicente/country_statistics">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80px" alt="React Logo"/>
-      </a>
-      <h3>🌍 Country Statistics</h3>
-      <p>Renderizado interactivo de mapas y métricas conectadas a múltiples APIs de banderas mundiales.</p>
-      <em>React | Vite | CSS</em>
-    </td>
-  </tr>
-  <!-- Fila 6 (Centrado si queda impar) -->
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/Fabian-Luna-Vicente/gestionaparcamento">
-        <img src="https://cdn-icons-png.flaticon.com/512/2138/2138240.png" width="80px" alt="Parking"/>
-      </a>
-      <h3>🚗 Gestión de Aparcamiento</h3>
-      <p>Software grupal de grado aplicando herencia, polimorfismo para administrar el flujo de un parking.</p>
-      <em>Java | Apache Ant</em>
-    </td>
-  </tr>
+
+
 </table>
 
 ---
@@ -221,7 +136,7 @@
   <a href="https://fabianworks.vercel.app">
     <img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <!-- Cambia "TU_USUARIO" / "TU_ID" por tus enlaces reales -->
+
   <a href="https://discord.com/users/fabilier">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
