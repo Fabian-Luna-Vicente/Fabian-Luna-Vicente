@@ -114,16 +114,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabian-Luna_Vicente&show_icons=true&theme=tokyonight&border_color=a100ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabian-Luna_Vicente&theme=tokyonight&border=a100ff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Luna_Vicente&layout=compact&theme=tokyonight&border_color=a100ff" width="60%" />
-</p>
 
 ## 📫 Socials and Contact
 
